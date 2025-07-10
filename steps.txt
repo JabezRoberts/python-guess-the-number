@@ -1,0 +1,27 @@
+Step 1:
+Welcome the user to the game
+
+Step 2
+Tell the user to select a level, easy or hard. If the user selects easy then set the number of attempts
+to 10 and if they select hard set it to 5
+
+Step 3
+Tell the user you are thinking of a number between 1 and 100.
+Generate number between 1 and 100 and save it to a variable to be compared to
+
+Step 4
+Ask the user to guess the number you guessed and save as an integer to a variable.
+
+Step 5
+define a function to compare the user guess to the computer guess. if the guess is the same then game over.
+If the user guess is higher tell them and if they guessed lower tell them
+
+step 6
+for each incorrect guess the user makes the number of attempts they have remaining must decrease by 1
+
+Step 7
+if the user reaches 0 guesses remaining and didn't guess the number end the game and the user loses otherwise
+they have already won
+
+Step 8
+Import logo from art1 and print to the console at the start of the game
